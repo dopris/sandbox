@@ -1,0 +1,9 @@
+Simple SocioNet Application
+----------------------------
+The following commands are supported:
+Posting: <user name> -> <message>               Post <message> to a personal timeline of <user name>
+Reading: <user name>                            Read <user name> timeline messages
+Following: <user name> follows <another user>   Subscribe <user name> to <another user> timeline
+Wall: <user name> wall                          View aggregate list of all subscriptions to <user name>
+Quit: :q                                        Quit the application.
+----------------------------
