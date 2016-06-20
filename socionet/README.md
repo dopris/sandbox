@@ -7,14 +7,15 @@ Prerequisites:
 * Maven
 
 Build command:
-mvn clean install
-Note. The application jar with its dependencies will be created in ./target folder: socionet.jar
+* mvn clean install
+>Note. The application jar with its dependencies will be created in ./target folder: socionet.jar
 
 Run command:
-java -jar target/socionet.jar
+* java -jar target/socionet.jar
 
 ## Example of usage and commands:
 
+```sh
 $java -jar target/socionet.jar
 Simple SocioNet Application
 ----------------------------
@@ -45,3 +46,4 @@ Bob - Good game though. (1 minute ago)
 Bob - Damn! We lost! (1 minute ago)
 Alice - I love the weather today (1 minute ago)
 >:q
+```
